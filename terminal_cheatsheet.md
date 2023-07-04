@@ -3,7 +3,7 @@
 ## Overview
 
 - This cheatsheet provides a quick overview of Terminal!
-- These basic commands that will be frequently used.
+- These basic commands will be frequently used.
 
 ## Basic Syntax
 
